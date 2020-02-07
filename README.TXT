@@ -1,3 +1,6 @@
+
+The source code is at the git : https://github.com/champymarty/mot_de_passe_source_code.git
+
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
